@@ -16,7 +16,7 @@ const Home = () => {
                 Welcome back, Joe!
               </h1>
               <p className="text-muted-foreground mt-1">
-                Here's an overview of your business.
+                Here is an overview of your business.
               </p>
             </div>
             <Button className="bg-blue-500 hover:bg-blue-600 text-white shadow-md transition-colors">
