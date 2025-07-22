@@ -24,4 +24,7 @@ To get started with this project, run the following commands:
 ```
 npm install
 npm run dev
+```
+## Live Demo
+[View the live demo here](https://next-shadcn-dashboard-g7da.vercel.app/)
 
